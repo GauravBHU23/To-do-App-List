@@ -1,4 +1,4 @@
-# 📝 To-Do List App
+![image](https://github.com/user-attachments/assets/4d9e9cc5-d827-4dd8-a501-ee81fba8717b)# 📝 To-Do List App
 
 A simple, responsive, and interactive To-Do List web application built using **HTML**, **CSS**, and **JavaScript**. This app helps users keep track of their tasks with the ability to add, complete, delete, and store tasks locally in the browser.
 
@@ -12,7 +12,9 @@ A simple, responsive, and interactive To-Do List web application built using **H
 
 ## 🖼️ Preview
 
-![To-Do App Screenshot](./images/preview.png) *(Replace with your actual screenshot path)*
+![To-Do App Screenshot]
+![Screenshot (309)](https://github.com/user-attachments/assets/7f50393b-80e9-4ed8-9e98-1b91b7f7e3a3)
+
 
 ---
 
