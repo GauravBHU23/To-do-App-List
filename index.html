@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <h1 class="main-heading">📝 To-Do List App</h1>
+    <title>To-Do List App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <marquee
+      class="todo-marquee"
+      scrollamount="6"
+      behavior="scroll"
+      direction="left"
+      style="color: white"
+    >
+      📝 The To-Do List is live and ready to use.
+    </marquee>
+
+    <div class="container">
+      <div class="todo-app">
+        <h2>To-Do List <img src="images/icon.png" alt="icon" /></h2>
+        <div class="row">
+          <input type="text" id="input-box" placeholder="Add your task..." />
+          <button onclick="addTask()">Add</button>
+        </div>
+        <ul id="list-container"></ul>
+
+        <marquee
+          class="todo-marquee"
+          scrollamount="6"
+          behavior="scroll"
+          direction="left"
+          style="color: white; margin-top: 20px"
+        >
+          📝 View your To-Do tasks.
+        </marquee>
+      </div>
+    </div>
+
+    <div id="toast" class="toast"></div>
+
+    <footer>
+      <marquee
+        scrollamount="7"
+        behavior="scroll"
+        direction="left"
+        style="color: white"
+        onmouseover="this.stop();"
+        onmouseout="this.start();"
+      >
+        📝 To-Do List App created by Gaurav Kumar | Department of Computer
+        Science | Banaras Hindu University, Varanasi
+      </marquee>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
