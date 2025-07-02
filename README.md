@@ -6,7 +6,7 @@ A simple, responsive, and interactive To-Do List web application built using **H
 
 ## 🚀 Live Demo
 
-[Click here to try the To-Do App](#)(https://gauravbhu23.github.io/To-do-App-List/))*
+[Click here to try the To-Do App] (https://gauravbhu23.github.io/To-do-App-List/))*
 
 ---
 
